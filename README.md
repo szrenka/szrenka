@@ -37,13 +37,13 @@ I'm a passionate software developer with a focus on frontend engineering, combin
 ---
 
 ## Project Showcase
-These are some of my projects. Feel free to check out my other repositories.
+These are some of my projects. Feel free to check out my other repositories as well.
 
-| Project | Description | Links | Tech Stack |
-|---------|-------------|-------|------------|
-| **Violing** | Violin Simulator | [Google Play](https://play.google.com/store/apps/details?id=com.SenrimaTeam.Violing) | React Native, TypeScript (originally: C#, Unity) |
-| **Keverve** | Oil-Gasoline Mixture Ratio Calculator | [Google Play](https://play.google.com/store/apps/details?id=com.SenrimaTeam.Keverve) | React Native, TypeScript (originally: C#, Unity) |
-| **Cyphero** | Number guessing game | [GitHub](https://github.com/szrenka/cyphero) | HTML, CSS, JavaScript |
+| Project | Links | Tech Stack |
+|---------|-------|------------|
+| **Violing** – Violin Simulator | [Google Play](https://play.google.com/store/apps/details?id=com.SenrimaTeam.Violing) | React Native, TypeScript (originally: C#, Unity) |
+| **Keverve** – Oil-Gasoline Mixture Ratio Calculator | [Google Play](https://play.google.com/store/apps/details?id=com.SenrimaTeam.Keverve) | React Native, TypeScript (originally: C#, Unity) |
+| **Cyphero** – Number guessing game | [GitHub](https://github.com/szrenka/cyphero) | HTML, CSS, JavaScript |
 
 <!--
 **szrenka/szrenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
